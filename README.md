@@ -1,16 +1,12 @@
-# ICTP - UIS - UCV 2018 workshops in Data Analysis
-## This is a serie of exercises and tests for workshops in Italy, Colombia and Venezuela
+# ICTP - Peru -Colombia - Venezuela - Mexico 2019 workshops in Data Analysis
+## This is a serie of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
 
 Repo for exercises and tests for workshops (this one!)
-# https://github.com/artfisica/ICTP-2018
+# https://github.com/artfisica/ICTP-2019
 
-## See [Class material](https://github.com/artfisica/ICTP-2018/tree/master/class-material) folder for details on the classes
+## See [Class material](https://github.com/artfisica/ICTP-2019/tree/master/class-material) folder for details on the classes
 
 ------------------------
 Created at Trieste
 
-Updated at Bucaramanga
-
-Updated at Caracas
-
-Updated at Cali
+Updated at ...
