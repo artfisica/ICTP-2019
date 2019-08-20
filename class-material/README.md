@@ -1,5 +1,5 @@
 # Open Data training
-## This folder contains the PDFs and other material used in the several Open Data workshop in 2018
+## This folder contains the PDFs and other material used in the several Open Data workshop in 2019
 arturos@cern.ch
 
 -------------
@@ -78,7 +78,7 @@ https://docs.google.com/spreadsheets/d/1nH8J5PViu8yRVMAY5q3ydS6Onqv5ZOh3tdeM5MP9
 
 * **c)** Update/Create/Clone a GitHub Repository
 
-https://github.com/artfisica/ICTP-2018
+https://github.com/artfisica/ICTP-2019
 
 
 * **d)** Add/Recreate/Update the notebook into the repository if needed
@@ -105,4 +105,4 @@ http://nbviewer.jupyter.org
       * https://www.ncdc.noaa.gov/gibbs/html/GOE-13/WV/2018-01-01-03
 
 -----------
-August-September-October 2018
+August-September-October 2019
