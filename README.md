@@ -8,5 +8,5 @@ Repo for exercises and tests for workshops (this one!)
 
 ------------------------
 Created at Trieste
-
-Updated at ...
+Docs to the repositories and other instrucctions:
+https://docs.google.com/document/d/1cXCwejoF1_9NZFU0jJ-kDO63jit-glomYgKyJzPDmJE
