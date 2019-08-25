@@ -6,6 +6,8 @@ Repo for exercises and tests for workshops (this one!)
 
 ## See [Class material](https://github.com/artfisica/ICTP-2019/tree/master/class-material) folder for details on the classes
 
+## See the [Virtual Machine](https://github.com/artfisica/ICTP-2019/tree/master/vm) documentation & download
+
 ------------------------
 Created at Trieste
 Docs to the repositories and other instrucctions:
