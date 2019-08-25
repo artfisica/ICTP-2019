@@ -1,7 +1,7 @@
 # ICTP - Peru -Colombia - Venezuela - Mexico 2019 workshops in Data Analysis
 ## This is a serie of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
 
-## All part of the [opendata.atlas.cern](http://www.opendata.atlas.cern) project
+## All part of the [opendata.atlas.cern](http://opendata.atlas.cern) project
 
 Repo for exercises and tests for workshops (this one!)
 # https://github.com/artfisica/ICTP-2019
