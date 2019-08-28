@@ -99,7 +99,7 @@ _ _ _
 
 ![path](images/fig-7-6.png)
 
-* **Jupiter terminal start and Notebooks run errors in VM**
+* **Jupyter terminal start and Notebooks run errors in VM**
 
 After starting your VM and running Notebooks, you may encounter the following **error** (look at the red frames in the photo below):
 
@@ -109,7 +109,7 @@ To solve this **error**, follow these simple steps:
 
 — Сlose notebooks and terminal
 
-— Run terminal again and type this code ** `./run-server-jupyter.sh` ** to start Jupiter
+— Run terminal again and type this code ** `./run-server-jupyter.sh` ** to start Jupyter
 
 ![path](images/fig-12-4.png)
 
