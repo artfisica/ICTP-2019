@@ -26,3 +26,6 @@ Two notes to read:
 #### http://opendata.atlas.cern/release/samples/2019/GamGam/
 #### Direct Download (2.1Gb) http://opendata.atlas.cern/release/samples/2019/GamGam/ATLAS-open-data-13TeV-2019-GamGam.zip
 
+
+## Extra
+### Please take a look to the docs of ROOT for the histogram creation: https://root.cern.ch/root/htmldoc/guides/users-guide/Histograms.html
