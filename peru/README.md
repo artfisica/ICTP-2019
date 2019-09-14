@@ -2,7 +2,7 @@
 
 Arturo Sánchez Pineda
 
-para el programa de Physics Without Frontiers del ICTP
+para el programa de '''Physics Without Frontiers del ICTP'''
 
 Universidad de Udine, ICTP, INFN, Italia & ATLAS - CERN, Suiza.
 
