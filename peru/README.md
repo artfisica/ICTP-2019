@@ -2,7 +2,7 @@
 
 Arturo Sánchez Pineda
 
-para el programa de '''Physics Without Frontiers del ICTP'''
+para el programa de **Physics Without Frontiers del ICTP**
 
 Universidad de Udine, ICTP, INFN, Italia & ATLAS - CERN, Suiza.
 
@@ -16,6 +16,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 
 #### Versión 1.0 (Septiembre 2019)
 
+<hr>
+
 ## Introducción a la programación computacional
 
 ### Sistemas Operativos Linux
@@ -28,6 +30,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 
 ### Principios de C++
 
+<hr>
+
 ## Principios en manipulación de Datos
 
 ### Pre-procesamiento de Datos (Data Cleaning)
@@ -35,6 +39,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 ### Estructura de Datos y formatos
 
 ### Curación de Datos (Bookkeeping and Storage)
+
+<hr>
 
 ## Computación en la Nube (Cloud Computing)
 
@@ -48,6 +54,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 
 ### Ejemplos de pipelines: creación de análisis de datos
 
+<hr>
+
 ## Desarrollo Colaborativo (Data Analysis & Software)
 
 ### Desarrollo de Código (Bookkeeping and Storage)
@@ -58,6 +66,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 
 ### Ejemplos de Análisis en Física de Altas Energías
 
+<hr>
+
 ## Visualización de Datos y Publicación de Resultados
 
 ### Visualización de Datos
@@ -67,6 +77,8 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 ### Publicación y Reproducibilidad
 
 ### Licencias, Citaciones y Créditos
+
+<hr>
 
 ## Seminarios
 
