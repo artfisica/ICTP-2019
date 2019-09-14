@@ -13,7 +13,6 @@ Esta propuesta trata de abarcar un programa de clases y sesiones prácticas que 
 
 Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Agosto), Trieste-Italia (19-23 Agosto), Lima-Perú (23-27 Septiembre), Bucaramanga & Bogotá-Colombia (3-9 Octubre), Mérida & Caracas-Venezuela (12-17 Octubre) y Orizaba-México (21-25 Octubre) durante el 2019.
 
-Los seminarios serán dictados (grabados y reproducidos) por investigadores y expertos de la industria tecnológica desde Europa y los Estados Unidos.
 
 #### Versión 1.0 (Septiembre 2019)
 
