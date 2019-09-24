@@ -1,6 +1,6 @@
 # Virtual Machine
 
-[![download](images/download_vm.png)](http://opendata.atlas.cern/release/vm/ATLAS-OpenData-VM-ROOT6-Xubuntu-15.04_light-sever.ova)
+[![download](images/download_vm.png)](http://universidad.ch/CEVALE2VE/IFP-2019/student-material/ATLAS-OpenData-VM-ROOT6-Xubuntu-15.04-auto-server.ova)
 
 ## **Why do you need a virtual machine?**
 
@@ -74,7 +74,7 @@ In principle, in the settings of VirtualBox there is nothing more to change.
 
 **Download the ready operating system(.ova file with ROOT preinstalled)**
 
-[![download](images/download_vm.png)](http://opendata.atlas.cern/release/vm/ATLAS-OpenData-VM-ROOT6-Xubuntu-15.04_light-sever.ova)
+[![download](images/download_vm.png)](http://universidad.ch/CEVALE2VE/IFP-2019/student-material/ATLAS-OpenData-VM-ROOT6-Xubuntu-15.04-auto-server.ova)
 _ _ _
 N.B. If you want to install your operating system from scratch, then see how to do it in [***this section***](appendix.md).
 _ _ _
