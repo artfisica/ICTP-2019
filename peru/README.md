@@ -14,6 +14,11 @@ Esta propuesta trata de abarcar un programa de clases y sesiones prácticas que 
 Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Agosto), Trieste-Italia (19-23 Agosto), Lima-Perú (23-27 Septiembre), Bucaramanga & Bogotá-Colombia (3-9 Octubre), Mérida & Caracas-Venezuela (12-17 Octubre) y Orizaba-México (21-25 Octubre) durante el 2019.
 
 
+### Ejemplos de ejercicios (sep 24 2019)
+https://docs.google.com/document/d/1KfDVSZKhED8wjJxpzjFxlJR1opbzbW2dgGVfjpkjrLA/edit?usp=sharing
+
+
+
 #### Versión 1.0 (Septiembre 2019)
 
 <hr>
