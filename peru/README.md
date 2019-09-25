@@ -36,6 +36,12 @@ https://swan.web.cern.ch/content/basic-examples
 <hr>
 
 
+## Doc para repos de estudiantes
+https://docs.google.com/document/d/1zhznR40hLyGi0C-EV2OjxCaam4RvY8TYWna0IAlYtq0/edit?usp=sharing
+
+
+<hr>
+
 
 #### Versión 1.0 (Septiembre 2019)
 
