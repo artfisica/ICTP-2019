@@ -16,7 +16,7 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 <hr>
 
 ### Ejemplos de ejercicios (sep 24 2019)
-https://docs.google.com/document/d/1KfDVSZKhED8wjJxpzjFxlJR1opbzbW2dgGVfjpkjrLA/edit?usp=sharing
+https://docs.google.com/document/d/1KfDVSZKhED8wjJxpzjFxlJR1opbzbW2dgGVfjpkjrLA/
 
 **NOTES**
 * Password of the VM = **root**
@@ -37,7 +37,7 @@ https://swan.web.cern.ch/content/basic-examples
 
 
 ## Doc para repos de estudiantes
-https://docs.google.com/document/d/1zhznR40hLyGi0C-EV2OjxCaam4RvY8TYWna0IAlYtq0/edit?usp=sharing
+https://docs.google.com/document/d/1zhznR40hLyGi0C-EV2OjxCaam4RvY8TYWna0IAlYtq0/
 
 
 <hr>
