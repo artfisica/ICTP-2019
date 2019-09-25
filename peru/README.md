@@ -17,6 +17,9 @@ Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Ago
 ### Ejemplos de ejercicios (sep 24 2019)
 https://docs.google.com/document/d/1KfDVSZKhED8wjJxpzjFxlJR1opbzbW2dgGVfjpkjrLA/edit?usp=sharing
 
+### VM with GEANT4 (Sep 25 2019)
+#### 4.8 GB !!
+http://universidad.ch/CEVALE2VE/IFP-2019/student-material/VMs-pre-PWF-trip/CEVALE2VEN_2019.ova
 
 
 #### Versión 1.0 (Septiembre 2019)
