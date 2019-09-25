@@ -14,12 +14,20 @@ Esta propuesta trata de abarcar un programa de clases y sesiones prácticas que 
 Diseñado con la intención explícita de ser utilizado en CERN-Suiza (Julio-Agosto), Trieste-Italia (19-23 Agosto), Lima-Perú (23-27 Septiembre), Bucaramanga & Bogotá-Colombia (3-9 Octubre), Mérida & Caracas-Venezuela (12-17 Octubre) y Orizaba-México (21-25 Octubre) durante el 2019.
 
 <hr>
+
 ### Ejemplos de ejercicios (sep 24 2019)
 https://docs.google.com/document/d/1KfDVSZKhED8wjJxpzjFxlJR1opbzbW2dgGVfjpkjrLA/edit?usp=sharing
+
+**NOTES**
+* Password of the VM = **root**
 
 ### VM with GEANT4 (Sep 25 2019)
 #### 4.8 GB !!
 http://universidad.ch/CEVALE2VE/IFP-2019/student-material/VMs-pre-PWF-trip/CEVALE2VEN_2019.ova
+
+#### Some more ROOT examples
+https://swan.web.cern.ch/content/basic-examples
+
 
 **NOTES**
 * 1.- su ->  password: cevale2venr00t (los dos 0 son ceros)
