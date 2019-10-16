@@ -1,7 +1,7 @@
 # ICTP PWF tour
 **Peru - Ecuador - Colombia - Venezuela - Mexico (2019) workshops in Data Analysis, Computing Sciences and HEP**
 
-### This is a serie of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
+### This is a series of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
 
 ## All part of the [opendata.atlas.cern](http://opendata.atlas.cern) project
 
