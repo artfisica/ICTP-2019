@@ -1,0 +1,3 @@
+Important: 
+The notebooks in this folder don't have any meaningful data analysis.
+The objective is to show the reading of data and installation of lib via pip.
