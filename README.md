@@ -12,6 +12,7 @@ Repo for exercises and tests for workshops (this one!)
 
 ## See the [Virtual Machine](https://github.com/artfisica/ICTP-2019/tree/master/vm) documentation & download
 
+## Perrillos programadores :v
 ------------------------
 #### Created/Started at Trieste (August 2019)
  Docs to the repositories and other instrucctions:
