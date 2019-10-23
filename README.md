@@ -12,6 +12,9 @@ Repo for exercises and tests for workshops (this one!)
 
 ## See the [Virtual Machine](https://github.com/artfisica/ICTP-2019/tree/master/vm) documentation & download
 
+
+#### The link to MyBinder is in the notebook folder (please take a look to the README in that folder for details)
+
 ------------------------
 #### Created/Started at Trieste (August 2019)
  Docs to the repositories and other instrucctions:
