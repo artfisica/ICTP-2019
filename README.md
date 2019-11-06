@@ -1,4 +1,7 @@
 # ICTP PWF tour
+
+[![DOI](https://zenodo.org/badge/203356357.svg)](https://zenodo.org/badge/latestdoi/203356357)
+
 **Peru - Ecuador - Colombia - Venezuela - Mexico (2019) workshops in Data Analysis, Computing Sciences and HEP**
 
 ### This is a series of exercises and tests for workshops under the PWF-ICTP and CEVALE2VE programs
