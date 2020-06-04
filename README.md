@@ -24,3 +24,6 @@ Repo for exercises and tests for workshops (this one!)
  https://docs.google.com/document/d/1cXCwejoF1_9NZFU0jJ-kDO63jit-glomYgKyJzPDmJE
 
 ### (insert next event if needed)
+
+### Para el binder
+https://mybinder.org/v2/gh/GisellaMaquen/ICTP-2019.git/master
